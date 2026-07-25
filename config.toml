@@ -208,7 +208,7 @@ changelog-keywords = ["Niagara Launcher"]
 "github:hoo-dles/morphe-patches" = []
 
 [Nova-Launcher]
-enabled = false
+enabled = true
 brand = "hoo-dles"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/teslacoil-software/nova-launcher/"
 uptodown-dlurl = "https://nova-launcher.en.uptodown.com/android"
@@ -910,7 +910,7 @@ uptodown-dlurl = "https://pixiv.en.uptodown.com/android"
 "github:RookieEnough/De-Vanced" = []
 
 [Proton-Mail]
-enabled = false
+enabled = true
 brand = "de-vanced"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/"
 uptodown-dlurl = "https://protonmail.en.uptodown.com/android"
@@ -958,7 +958,7 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Tumblr_de-vanced]
 app-name = "Tumblr"
-enabled = false
+enabled = true
 brand = "de-vanced"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
