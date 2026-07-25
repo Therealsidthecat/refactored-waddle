@@ -56,7 +56,7 @@ patcher-args = "-e 'Custom branding name for Reddit' -OappName='Reddit Morphe'"
 "github:MorpheApp/morphe-patches" = []
 
 [X-Twitter]
-enabled = false
+enabled = true
 brand = "piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
@@ -746,7 +746,7 @@ changelog-keywords = ["Rumble"]
 "github:arandomhooman/hoomans-morphe-patches" = []
 
 [Tumblr_hooman]
-enabled = false
+enabled = true
 app-name = "Tumblr"
 brand = "hooman"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
@@ -958,7 +958,7 @@ uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Tumblr_de-vanced]
 app-name = "Tumblr"
-enabled = true
+enabled = false
 brand = "de-vanced"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr/"
 uptodown-dlurl = "https://tumblr.en.uptodown.com/android"
