@@ -56,7 +56,7 @@ patcher-args = "-e 'Custom branding name for Reddit' -OappName='Reddit Morphe'"
 "github:MorpheApp/morphe-patches" = []
 
 [X-Twitter]
-enabled = true
+enabled = false
 brand = "piko"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
@@ -409,7 +409,7 @@ changelog-keywords = ["JioHotstar"]
 "gitlab:Paresh-Maheshwari/paresh-patches" = []
 
 [MacroDroid]
-enabled = false
+enabled = true
 brand = "paresh"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/arlosoft/macrodroid-device-automation-2/"
 uptodown-dlurl = "https://macrodroid.en.uptodown.com/android"
