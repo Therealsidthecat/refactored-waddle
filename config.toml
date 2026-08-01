@@ -339,7 +339,7 @@ changelog-keywords = ["Xodo"]
 "github:hoo-dles/morphe-patches" = []
 
 [XRecorder]
-enabled = false
+enabled = true
 brand = "hoo-dles"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/inshot-inc-2/screen-recorder-video-recorder-xrecorder/"
 uptodown-dlurl = "https://videoeditor-videorecorder-screenrecorder.en.uptodown.com/android"
