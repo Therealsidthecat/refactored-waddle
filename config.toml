@@ -757,7 +757,7 @@ changelog-keywords = ["Tumblr"]
 "github:arandomhooman/hoomans-morphe-patches" = []
 
 [Twitch]
-enabled = false
+enabled = true
 brand = "hooman"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
