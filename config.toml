@@ -35,12 +35,12 @@ patcher-args = "-e 'Change header' -Ocustom=icons/YouTube/header -e 'Custom bran
 "github:MorpheApp/morphe-patches" = []
 
 [YT-Music-Experimental]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 arch = "both"
 version = "9.24.51"
-patcher-args = "-e 'Change header' -Ocustom=icons/Music/header -e 'Custom branding' -OcustomIcon=icons/Music/branding -OcustomName='Music Morphe'"
+patcher-args = "-e 'Change header' -Ocustom=icons/Music/header -e 'Custom branding' -OcustomIcon=icons/Music/branding -OcustomName='DT Music'"
 
 [YT-Music-Experimental.patches]
 "github:MorpheApp/morphe-patches" = []
@@ -409,7 +409,7 @@ changelog-keywords = ["JioHotstar"]
 "gitlab:Paresh-Maheshwari/paresh-patches" = []
 
 [MacroDroid]
-enabled = true
+enabled = false
 brand = "paresh"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/arlosoft/macrodroid-device-automation-2/"
 uptodown-dlurl = "https://macrodroid.en.uptodown.com/android"
